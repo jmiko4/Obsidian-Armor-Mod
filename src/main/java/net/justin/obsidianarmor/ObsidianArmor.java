@@ -14,5 +14,8 @@ public class ObsidianArmor implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		RegisterItems.register();
+
 	}
+
 }
