@@ -1,9 +1,21 @@
-# Fabric Example Mod
+# Minecraft Obsidian Armor Mod
 
-## Setup
+## Project Objectives
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+The goal of this project was to create a working mod that allows you to make armor from obsidian. I chose this objective because it seemed simple nough for me to make progress, yet still have plenty of time to learn the Fabric libraries and re-learn Java. 
 
-## License
+## Resources Used During This Project
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+IntelliJ IDE
+
+Gradle.
+
+The [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) has extensive documentation on how to use the fabric libraries.
+
+## Languages Used
+
+Java
+
+Json
+
+Gradle
